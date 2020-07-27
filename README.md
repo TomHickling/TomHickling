@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on all things WVD
 
-[![Tom's github stats](https://github-readme-stats.vercel.app/api?username=tomhickling)](https://github.com/tomhickling/github-readme-stats)
-
 ![Tom's github stats](https://github-readme-stats.vercel.app/api?username=tomhickling&show_icons=true&theme=radical)
 
 
