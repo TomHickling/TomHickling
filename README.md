@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on all things WVD
 
-
+[![Tom's github stats](https://github-readme-stats.vercel.app/api?username=tomhickling)](https://github.com/tomhickling/github-readme-stats)
 <!--
 **TomHickling/TomHickling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
